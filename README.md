@@ -19,7 +19,7 @@
 
 
 
-## 信号时域采样与内插恢复
+## [信号时域采样与内插恢复](https://github.com/Chenying2000/py-SPT/tree/main/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1%EF%BC%9A%E4%BF%A1%E5%8F%B7%E5%A4%84%E7%90%86%E5%B7%A5%E5%85%B7%E7%AE%B1%E5%BC%80%E5%8F%91/%E4%BF%A1%E5%8F%B7%E5%8F%98%E6%8D%A2%EF%BC%88%E5%8F%98%E6%8D%A2%E5%9F%9F%E5%88%86%E6%9E%90%EF%BC%89)
 - 采样定理及奈奎斯特率验证
 
 - 信号恢复：取样内插恢复
