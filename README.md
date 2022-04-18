@@ -20,16 +20,16 @@
 
 
 ## [信号时域采样与内插恢复](https://github.com/Chenying2000/py-SPT/tree/main/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1%EF%BC%9A%E4%BF%A1%E5%8F%B7%E5%A4%84%E7%90%86%E5%B7%A5%E5%85%B7%E7%AE%B1%E5%BC%80%E5%8F%91/%E4%BF%A1%E5%8F%B7%E9%87%87%E6%A0%B7%E4%B8%8E%E6%81%A2%E5%A4%8D%EF%BC%88%E6%97%B6%E5%9F%9F%E5%88%86%E6%9E%90%EF%BC%89)
-- 采样定理及奈奎斯特率验证
+- [采样定理及奈奎斯特率验证](https://colab.research.google.com/drive/1aqBYTxth4f6p_fdO9u7Q5pAC-tUibOZQ)
 
-- 信号恢复：取样内插恢复
+- [信号恢复：取样内插恢复](https://colab.research.google.com/drive/1yvTHvSn19ehKHSEgqbXtayND12Z16_ly)
 
 ## [信号变换域分析](https://github.com/Chenying2000/py-SPT/tree/main/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1%EF%BC%9A%E4%BF%A1%E5%8F%B7%E5%A4%84%E7%90%86%E5%B7%A5%E5%85%B7%E7%AE%B1%E5%BC%80%E5%8F%91/%E4%BF%A1%E5%8F%B7%E5%8F%98%E6%8D%A2%EF%BC%88%E5%8F%98%E6%8D%A2%E5%9F%9F%E5%88%86%E6%9E%90%EF%BC%89)
-- 离散时间傅里叶变换DTFT
-- 离散傅里叶变换DFT（IDFT）
-- Z变换(IchripZ)
-- 系统函数的频率响应
-- 线性卷积和圆周卷积
+- [离散时间傅里叶变换DTFT](https://colab.research.google.com/drive/1CG7tDezBkdp7i_KBDCIEE3WfcHiD7Iy7)
+- [离散傅里叶变换DFT（IDFT）](https://colab.research.google.com/drive/12Z6dlpTVzCDeSrnzGlIMmO0mi7-r2PSL)
+- [Z变换(IchripZ)](https://colab.research.google.com/drive/1C5fRYTJo6RHVzJLHxy0tvwRkjpUnRVCw)
+- [系统函数的频率响应](https://colab.research.google.com/drive/1TJFGBktSFd0dqXjlnMNSvr3bYN94nQUY)
+- [线性卷积](https://colab.research.google.com/drive/18MqCcezyvaNN8f6qTQKvBPm4RapDMsqy)和[圆周卷积](https://colab.research.google.com/drive/1V5fITlGZHOMKf6yrxTLJPix6PIDfm-en)
 
 ## [滤波器设计](https://github.com/Chenying2000/py-SPT/tree/main/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1%EF%BC%9A%E4%BF%A1%E5%8F%B7%E5%A4%84%E7%90%86%E5%B7%A5%E5%85%B7%E7%AE%B1%E5%BC%80%E5%8F%91/%E6%BB%A4%E6%B3%A2%E5%99%A8%E8%AE%BE%E8%AE%A1)
 ### [模拟滤波器设计](https://github.com/Chenying2000/py-SPT/tree/main/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1%EF%BC%9A%E4%BF%A1%E5%8F%B7%E5%A4%84%E7%90%86%E5%B7%A5%E5%85%B7%E7%AE%B1%E5%BC%80%E5%8F%91/%E6%BB%A4%E6%B3%A2%E5%99%A8%E8%AE%BE%E8%AE%A1/%E6%A8%A1%E6%8B%9F%E6%BB%A4%E6%B3%A2%E5%99%A8%E8%AE%BE%E8%AE%A1)
