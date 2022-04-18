@@ -4,18 +4,18 @@
 
 使用python完成信号产生、信号时域采样与内插恢复、信号变换域分析、滤波器设计等内容，实现基于python的Signal Processing Toolbox开发
 
-（几级标题怎么设？美观性问题，超链接跳转实现）
+
 ## [信号产生](https://github.com/Chenying2000/py-SPT/tree/main/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1%EF%BC%9A%E4%BF%A1%E5%8F%B7%E5%A4%84%E7%90%86%E5%B7%A5%E5%85%B7%E7%AE%B1%E5%BC%80%E5%8F%91/%E4%BF%A1%E5%8F%B7%E4%BA%A7%E7%94%9F)
 
-- 波形生成：时间向量和正弦波
+- [波形生成：时间向量和正弦波](https://colab.research.google.com/drive/1B4s01fqxhfup-1TqbeTVeRfkmaesIzBS)
 
-- 脉冲函数、阶跃函数和斜坡函数
+- [脉冲函数、阶跃函数和斜坡函数](https://colab.research.google.com/drive/1qTqbF-BOaeUFhmWJ-5FIFz-gO2Ldxzkq)
 
-- 常见的周期波形：锯齿波、三角波、方波
+- [常见的周期波形：锯齿波、三角波、方波](https://colab.research.google.com/drive/1vin5Wl02Mi8DUPxsw8uHVh3RY5sUPw90)
 
-- 非周期波形：三角脉冲、矩形脉冲
+- [非周期波形：三角脉冲、矩形脉冲](https://colab.research.google.com/drive/1xe2b6IjROY2aWtEvE5dz0vfuvp6pMAaf)
 
-- 正弦函数sinc、迪利克雷函数Dlrichlet
+- [正弦函数sinc、迪利克雷函数Dlrichlet](https://colab.research.google.com/drive/1gFE-SGN01Nh7qGYFgRcpRhCeESLCqM3r)
 
 
 
