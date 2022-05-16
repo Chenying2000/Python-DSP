@@ -1,4 +1,4 @@
-# 基于python的信号处理工具箱开发（py—SPT）
+# 基于python的信号处理工具箱开发（python—DSP）
 [![Python](https://img.shields.io/badge/python-3.9-blue)](https://docs.python.org/zh-cn/3.9/)
 [Jupyter Notebook](https://jupyter.org/)
 
