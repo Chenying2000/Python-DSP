@@ -17,7 +17,7 @@
 
 - 非周期波形：三角脉冲、矩形脉冲  ([Colab Link](https://colab.research.google.com/drive/1BYAiuRWjbPADVC9HL_zGoAnZX1PbNnJG)|[Jupyter Notebook File](https://github.com/Chenying2000/Python-DSP/blob/main/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1%EF%BC%9A%E4%BF%A1%E5%8F%B7%E5%A4%84%E7%90%86%E5%B7%A5%E5%85%B7%E7%AE%B1%E5%BC%80%E5%8F%91/%E4%BF%A1%E5%8F%B7%E4%BA%A7%E7%94%9F/%E9%9D%9E%E5%91%A8%E6%9C%9F%E6%B3%A2%E5%BD%A2%EF%BC%9A%E4%B8%89%E8%A7%92%E8%84%89%E5%86%B2%E3%80%81%E7%9F%A9%E5%BD%A2%E8%84%89%E5%86%B2.ipynb))
 
-- 正弦函数sinc、迪利克雷函数Dlrichlet  ([Colab Link](https://colab.research.google.com/drive/1rVdnpADW4rtRZCUDdrEfF1E2NJ1p71-d)|[Jupyter Notebook File](https://github.com/Chenying2000/Python-DSP/blob/main/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1%EF%BC%9A%E4%BF%A1%E5%8F%B7%E5%A4%84%E7%90%86%E5%B7%A5%E5%85%B7%E7%AE%B1%E5%BC%80%E5%8F%91/%E4%BF%A1%E5%8F%B7%E4%BA%A7%E7%94%9F/%E6%AD%A3%E5%BC%A6%E5%87%BD%E6%95%B0sinc%E5%92%8C%E8%BF%AA%E5%88%A9%E5%85%8B%E9%9B%B7%E5%87%BD%E6%95%B0Dirichlet.ipynb)
+- 正弦函数sinc、迪利克雷函数Dlrichlet  ([Colab Link](https://colab.research.google.com/drive/1rVdnpADW4rtRZCUDdrEfF1E2NJ1p71-d)|[Jupyter Notebook File](https://github.com/Chenying2000/Python-DSP/blob/main/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1%EF%BC%9A%E4%BF%A1%E5%8F%B7%E5%A4%84%E7%90%86%E5%B7%A5%E5%85%B7%E7%AE%B1%E5%BC%80%E5%8F%91/%E4%BF%A1%E5%8F%B7%E4%BA%A7%E7%94%9F/%E6%AD%A3%E5%BC%A6%E5%87%BD%E6%95%B0sinc%E5%92%8C%E8%BF%AA%E5%88%A9%E5%85%8B%E9%9B%B7%E5%87%BD%E6%95%B0Dirichlet.ipynb))
 
 
 
