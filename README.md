@@ -5,9 +5,9 @@
 使用python完成信号产生、信号时域采样与内插恢复、信号变换域分析、滤波器设计等内容，实现基于python的Digital Signal Processing Toolbox开发
 
 
-## [信号产生](https://github.com/Chenying2000/py-SPT/tree/main/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1%EF%BC%9A%E4%BF%A1%E5%8F%B7%E5%A4%84%E7%90%86%E5%B7%A5%E5%85%B7%E7%AE%B1%E5%BC%80%E5%8F%91/%E4%BF%A1%E5%8F%B7%E4%BA%A7%E7%94%9F)
+## 信号产生
 
-- [波形生成：时间向量和正弦波](https://colab.research.google.com/drive/1B4s01fqxhfup-1TqbeTVeRfkmaesIzBS)
+- 波形生成：时间向量和正弦波[Colab Link ](https://colab.research.google.com/drive/1WrB8Z21WtpIRplLLE5osj0cxzDq0qMQE)|[Jupyter Notebook File](https://github.com/Chenying2000/Python-DSP/blob/main/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1%EF%BC%9A%E4%BF%A1%E5%8F%B7%E5%A4%84%E7%90%86%E5%B7%A5%E5%85%B7%E7%AE%B1%E5%BC%80%E5%8F%91/%E4%BF%A1%E5%8F%B7%E4%BA%A7%E7%94%9F/%E6%B3%A2%E5%BD%A2%E7%94%9F%E6%88%90%EF%BC%9A%E6%97%B6%E9%97%B4%E5%90%91%E9%87%8F%E5%92%8C%E6%AD%A3%E5%BC%A6%E6%B3%A2.ipynb)
 
 - [脉冲函数、阶跃函数和斜坡函数](https://colab.research.google.com/drive/1qTqbF-BOaeUFhmWJ-5FIFz-gO2Ldxzkq)
 
